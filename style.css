@@ -1,0 +1,122 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 30px;
+    
+}
+.middle{
+    color: rgb(38, 177, 231);
+}
+.left{
+    margin-left: 60px;
+}
+.right{
+    margin-right: 60px;
+}
+.container-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    position: relative; 
+    border-bottom: 1px solid black;
+
+    
+}
+ button{
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(82, 185, 226);
+
+ }
+
+.img4{
+    padding-top: 10px;
+    color: white;
+} 
+.middle-1{
+display: flex;
+flex-direction: column;
+}
+.img{
+    display: flex;
+
+    
+}
+.left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.container-2{
+    text-align: center;
+}
+.left-1{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 110%;
+    left: 0%;
+    margin-left: 100px;
+    
+}
+   
+   .left-1 i{
+       
+       margin: 0px 120px;
+       
+   }
+   .left{
+       
+    padding-right: 1000px;
+    
+}
+
+   .left h3{
+       display: flex;
+       justify-self: left;
+       text-align: left;
+      
+   }
+   /* --------<Section-3>------- */
+   container-3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    position: relative; 
+ 
+   }
+   .left-2{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 110%;
+    left: 0%;
+    margin-left: 100px;
+   }
+   .left-2 i{
+       
+    margin: 0px 120px;
+}
+.left h4{
+    display: flex;
+    justify-self: left;
+}
+.footer{
+    height: 20px;
+    width: 100%;
+    padding-top: 600PX;
+    border:1PX solid black;
+     /* background-color: aqua; */
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
